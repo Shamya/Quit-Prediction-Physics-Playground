@@ -5,4 +5,4 @@ Combined data available at - https://upenn.box.com/s/4ocucflaehd7c51lbxx96heikcj
 
 This notebook is not set up to run as a standalone script. It is made available primarily to promote trasparency in reserach. The published paper is also uploaded in the repository. 
 
-If you have any questions, kindly contact me at shamya16 at gmail dot com.
+If you have any questions, kindly contact me at shamya at upenn dot edu or shamya16 at gmail dot com.
